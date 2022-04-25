@@ -173,12 +173,9 @@ function writePassword() {
       i++;
     }
 
-    console.log(passwordChar.join(""));
-
-    return password;
+    var password = passwordChar.join("");
   }
 
-  var password = generatePassword();
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
