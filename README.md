@@ -25,10 +25,24 @@
 7. The password is generated on the page
    ![gened-pw](./assets/images/7-gened-pw.jpg)
 
+### Technologies used
+
+1. HTML
+2. CSS
+3. JavaScript
+
 ### Link:
 
 Click [https://angelawong3.github.io/password-generator/](https://angelawong3.github.io/password-generator/) to go to the page.
 
+### License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### Contact Me
+
+Please contact me at angelawong3@yahoo.com
+
 ---
 
-© Angela Wong
+© 2022 Angela Wong
